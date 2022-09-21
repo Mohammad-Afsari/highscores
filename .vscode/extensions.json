@@ -1,0 +1,7 @@
+{
+  "recommendations": ["svelte.svelte-vscode"],
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode",
+    "editor.formatOnSave": true
+  }
+}
